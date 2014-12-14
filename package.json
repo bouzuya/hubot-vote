@@ -1,6 +1,6 @@
 {
   "name": "hubot-vote",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A Hubot script for voting",
   "main": "index.js",
   "scripts": {
